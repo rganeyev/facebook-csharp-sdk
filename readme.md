@@ -1,10 +1,9 @@
 Facebook C# SDK
 ===============
 
-This SDK provides a light wrapper around the Facebook Graph API.
+NOTE:  THIS SDK IS DEPRECATED. WE ARE KNOW LONGER SUPPORTING IT AND IT WILL BE MADE PRIVATE SOON.
 
-NOTE: This is an **alpha** release. If you encounter any issues, please file
-them [here](http://github.com/facebook/csharp-sdk/issues).
+This SDK provides a light wrapper around the Facebook Graph API.
 
 
 Getting Started
